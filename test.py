@@ -37,3 +37,5 @@ t1.join()  # Wait for t1 to finish
 t2.join()  # Wait for t2 to finish
 
 print("Both threads finished.")
+
+print("new branch add main")
